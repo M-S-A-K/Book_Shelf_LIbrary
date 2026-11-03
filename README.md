@@ -8,11 +8,11 @@ A beginner-friendly Flutter application for university students to browse, borro
 
 | Splash Screen | Login | Registration |
 |:---:|:---:|:---:|
-| <img src="screenshots/1_splash.png" width="220" /> | <img src="screenshots/2_login.png" width="220" /> | <img src="screenshots/3_register.png" width="220" /> |
+| <img src="app_screens/01_splash_screen.png" width="220" /> | <img src="app_screens/02_login_screen.png" width="220" /> | <img src="app_screens/03_register_screen.png" width="220" /> |
 
 | Dashboard | Book Details | Borrowed Books |
 |:---:|:---:|:---:|
-| <img src="screenshots/4_dashboard.png" width="220" /> | <img src="screenshots/5_book_details.png" width="220" /> | <img src="screenshots/6_borrowed_books.png" width="220" /> |
+| <img src="app_screens/04_dashboard_screen.png" width="220" /> | <img src="app_screens/05_book_details_screen.png" width="220" /> | <img src="app_screens/06_borrowed_books_screen.png" width="220" /> |
 
 ---
 
