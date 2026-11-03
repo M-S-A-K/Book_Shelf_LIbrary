@@ -64,14 +64,6 @@ class _SplashScreenState extends State<SplashScreen> {
                 letterSpacing: 0.5,
               ),
             ),
-            const SizedBox(height: 6),
-            const Text(
-              'Library Management',
-              style: TextStyle(
-                fontSize: 15,
-                color: Colors.white70,
-              ),
-            ),
           ],
         ),
       ),
